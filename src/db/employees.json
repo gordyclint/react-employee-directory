@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Spike Spiegel",
+        "description": "Spike Spiegel is a tall, lean, and slightly muscular 27-year-old bounty hunter born on Mars. Spike has a history of violent activity, seen through flashbacks and dialogue with the Red Dragon Syndicate. He is often depicted with a cavalier attitude, but occasionally shows signs of compassion when dealing with strangers",
+        "role": "Protagonist",
+        "image": "/assets/images/spike-spiegel.jpg",
+        "gender": "Male"
+    },
+
+    {
+        "name": "Jet Black",
+        "description": "Known on his home satellite as the 'Black Dog' for his tenacity, Jet Black is a 36-year-old former cop from Ganymede (a Jovian satellite) and acts as Spike's foil. Physically, Jet is very tall with a muscular build. He wears a beard with no mustache, and is completely bald save for the back of his head.",
+        "role": "Protagonist",
+        "image": "/assets/images/jet-black.jpg",
+        "gender": "Male"
+    },
+
+    {
+        "name": "Faye Valentine",
+        "description": "Faye Valentine is one of the members of the bounty hunting crew in the anime series Cowboy Bebop. Although appearing to be no more than 23 years old, Faye is actually around 77 years old, having been put into cryogenic freeze after a space shuttle accident, wherein she spent fifty-four years in suspended animation.",
+        "role": "Protagonist",
+        "image": "/assets/images/faye-valentine.jpg",
+        "gender": "Female"
+    },
+
+    {
+        "name": "Ed",
+        "description": "Edward Wong Hau Pepelu Tivrusky IV is the self-invented personal name of an elite hacker prodigy from Earth. 'Radical Edward' is a very strange, somewhat androgynous, teenage girl claiming to be around 13 years of age. Her mannerisms include walking around on her bare hands, performing strange postures, and her gangling walk.",
+        "role": "Protagonist",
+        "image": "/assets/images/ed.jpg",
+        "gender": "Female"
+    },
+
+    {
+        "name": "Ein",
+        "description": "Ein is a Pembroke Welsh Corgi brought aboard the Bebop by Spike after a failed attempt to capture a bounty. He often shows heightened awareness of events going on around him. Over the course of the series, Ein answers the telephone, steers a car, uses the SSW, plays shogi, operates the Brain Dream gaming device, and generally performs tasks that an average canine would not be able to accomplish.",
+        "role": "Protagonist",
+        "image": "/assets/images/ein.jpg",
+        "gender": "Male"
+    },
+
+    {
+        "name": "Vicious",
+        "description": "Vicious is Spike's archenemy. He is a ruthless, cunning, and power-hungry member of the Red Dragon Crime Syndicate in Tharsis, and is often referred to or depicted as a venomous snake. His weapon of choice is a katana which he wields skillfully, even against gun-wielders.",
+        "role": "Antagonist",
+        "image": "/assets/images/vicious.jpg",
+        "gender": "Male" 
+    },
+
+    {
+        "name": "Julia",
+        "description": "Julia is a beautiful and mysterious woman from Spike's past. Initially Vicious' girlfriend and a Syndicate member herself, she and Spike started an affair that led to Spike offering to abandon the Syndicate and elope with her, despite the fact that the Syndicate punishes desertion with death.",
+        "role": "Antagonist",
+        "image": "/assets/images/julia.jpg",
+        "gender": "Female"
+    }
+    
+    ]
