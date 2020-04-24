@@ -23,7 +23,7 @@ function SearchResults({ image, name, description }) {
             </Media>
         </Media>
     );
-}
+} 
 
 export default SearchResults;
 
